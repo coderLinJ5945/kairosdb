@@ -35,3 +35,5 @@ If you have any questions about how to contribute to KairosDB, [join our discuss
 
 ## License
 The license is the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+## todo 用于学习基于Cassandra 的 Rest API 实现
